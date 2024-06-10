@@ -15,6 +15,7 @@ Soy un chico tranquilo de 17 años con una gran fascinación por la tecnología,
 CETis 17
 
 Actualmente cursando estudios técnicos en Programacion.
+
 🌟 Sobre Mí
 Soy una persona tranquila y pasiva, que siempre esta buscando algo nuevo en que distraerse y mejorar en mis habilidades. Disfruto trabajando en proyectos desafiantes y un poco complejos, asi como tambien colaborando con otros compañeros de mi clase. Mi objetivo es poder continar con mi preparacion y lograr convertirme en un desarrollador completo asi como tambien contribuir a proyectos innovadores y desafiantes.
 
